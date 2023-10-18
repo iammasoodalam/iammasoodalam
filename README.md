@@ -10,7 +10,7 @@
     <!-- <div><img src="https://komarev.com/ghpvc/?username=iammasoodalam&style=flat&color=blue" alt=""/></div> -->
 </div>
 
-## Assalamualaikum 👋
+<h2 align="center">Assalamualaikum 👋</h2>
 
 - I'm currently learning Data Structures and Algorithms and Object Oriented Programming as my University curriculum.
 - And doing some side projects using NextJS, MongoDB and Express.
